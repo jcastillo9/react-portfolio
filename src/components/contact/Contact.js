@@ -14,7 +14,7 @@ export default function Contact() {
                 </div>
                 <div className="form-group">
                     <label for="email">Email: </label>
-                    <input placeholder="Email" type="text" id="email" required="true"/>
+                    <input placeholder="Email" type="email" id="email" required="true"/>
                 </div>
                 <div className="form-group">
                     <label for="messsage-box">Message:</label>
