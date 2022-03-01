@@ -69,4 +69,4 @@ Run using the github URL: https://jcastillo9.github.io/portfolio-v3-/
 
 # License
  
-The MIT License (MIT)
+The MIT License (MIT) ![License: MIT](<https://img.shields.io/badge/License-MIT-yellow.svg>)
