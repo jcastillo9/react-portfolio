@@ -3,7 +3,6 @@ import projects from '../../data/portfolioData'
 export default function Portfolio(){
     const portfolioData = projects.map((project, index) => {
         return (
-        <div id="projects-list">
             <div className="caption">
                 <img src={project.imageSrc}/>
                 <h3><strong>{project.title}</strong></h3>
@@ -11,14 +10,15 @@ export default function Portfolio(){
                 <p><a target="_blank" href={project.repo} className="links">Github
                     Repository</a></p>
             </div>
-        </div>
         )
     })
     return (
         <div className="projects" id="projects">
         <div className="header">
             <h2>Portfolio</h2>
-            {portfolioData}
+        </div>
+        <div id="projects-list">
+        {portfolioData}
         </div>
         </div>
     )

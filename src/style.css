@@ -106,13 +106,13 @@ main {
     padding: 3rem;
     text-align: center;
     display: flex;
-    flex-direction: row;
+    flex-flow: row wrap;
     justify-content: center;
     margin: auto;
 }
 
-.caption img {
-    width:1000px;
+#projects-list img {
+    width:400px;
     margin:0;
     flex-direction: row;
     border-radius: 2%;
@@ -289,6 +289,6 @@ footer a {
         text-align: center;
     }
     #projects-list img {
-        width: 300px;
+        width: 400px;
     }
 }
