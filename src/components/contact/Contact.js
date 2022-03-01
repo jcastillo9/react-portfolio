@@ -10,15 +10,15 @@ export default function Contact() {
             <form className="message-forms">
                 <div className="form-group">
                     <label for="name">Name: </label>
-                    <input placeholder="Name" type="text" id="name"/>
+                    <input placeholder="Name" type="text" id="name" required="true"/>
                 </div>
                 <div className="form-group">
                     <label for="email">Email: </label>
-                    <input placeholder="Email" type="text" id="email"/>
+                    <input placeholder="Email" type="text" id="email" required="true"/>
                 </div>
                 <div className="form-group">
                     <label for="messsage-box">Message:</label>
-                    <input className="message-input" placeholder="Your Message" type="text" id="message-box"/>
+                    <input className="message-input" placeholder="Your Message" type="text" id="message-box" required="true"/>
                 </div>
                 <div>
                     <button href="mailto:janette.castillo91@yahoo.com" type="sumbit">Submit</button>
