@@ -55,7 +55,7 @@ Run using the github URL: https://jcastillo9.github.io/react-portfolio-v4
 
 <img src="/src/assets/images/homepage.png"/>
 <img src="/src/assets/images/navbar.png"/>
-<img src="/src/assets/images/contact.png"/>
+<img src="/src/assets/images/contactpage.png"/>
 
 ## Questions:
  ### Reach me here:
