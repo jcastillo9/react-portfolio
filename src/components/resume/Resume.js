@@ -1,6 +1,3 @@
-import github from '../../assets/images/github.png'
-import linkedin from '../../assets/images/linkedin.png'
-import resume from '../../assets/images/resume.png'
 export default function Contact() {
     return (
         <div>
