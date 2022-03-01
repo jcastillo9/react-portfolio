@@ -1,4 +1,4 @@
-import { Routes, Route } from 'react-router-dom'
+
 import Nav from '../nav/Nav'
 import About from '../about/About'
 import Portfolio from '../portfolio/Portfolio'
@@ -10,12 +10,6 @@ export default function Header() {
 
         <div>
             <Nav />
-            <Routes>
-                <Route path='/' element={<About />} />
-                <Route path='/portfolio' element={<Portfolio />} />
-                <Route path='/contact' element={<Contact />} />
-                <Route path='/resume' element={<Resume />} />
-            </Routes>
         </div>
     );
 }
