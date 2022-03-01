@@ -1,4 +1,5 @@
 import projects from '../../data/portfolioData'
+import portfolioData from '../../data/portfolioData'
 
 export default function Portfolio(){
     const portfolioData = projects.map((project, index) => {
@@ -17,7 +18,7 @@ export default function Portfolio(){
     return (
         <div className="projects" id="projects">
         <div className="header">
-            <h2>Porfolio</h2>
+            <h2>Portfolio</h2>
             {portfolioData}
         </div>
         </div>
