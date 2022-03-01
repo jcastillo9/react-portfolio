@@ -62,9 +62,21 @@ main {
     color: #888;
 }
 
+#landing-text h3 {
+    text-align:center;
+}
+
+#landing-innertext p {
+    text-decoration: none;  
+    float: center;
+    text-align:center;
+    padding-right: 1rem;
+    padding-left: 1rem; 
+}
+
 .header {
     text-align: center;
-    background: #333;
+    background: rgb(65, 65, 65);
     color: #fff;
     height: 80px;
     /* text-decoration: none; */
@@ -158,7 +170,7 @@ footer {
     text-align: center;
     padding: .5rem;
     margin: auto;
-    background: #333;
+    background: rgb(65, 65, 65);
 }
 
 footer img {
