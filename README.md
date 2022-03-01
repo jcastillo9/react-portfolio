@@ -51,7 +51,7 @@ As an employer, I want to view a potential employee's deployed portfolio of work
 * Axios
 
 # Installation
-Run using the github URL: https://jcastillo9.github.io/portfolio-v3-/
+Run using the github URL: https://jcastillo9.github.io/react-portfolio-v4
 
 <img src="assets/images/portfolio_landingpage.png"/>
 <img src="assets/images/portfolio_projectspage.png"/>
