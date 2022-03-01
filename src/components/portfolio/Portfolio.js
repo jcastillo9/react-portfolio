@@ -1,5 +1,4 @@
 import projects from '../../data/portfolioData'
-import portfolioData from '../../data/portfolioData'
 
 export default function Portfolio(){
     const portfolioData = projects.map((project, index) => {

@@ -55,11 +55,12 @@ main {
     float: center;
     padding-right: 1rem;
     padding-left: 1rem;
-    background: #eee; 
- }
+    background: #eee;
+}
 
 #landing-text h2 {
     color: #888;
+    text-align:center;
 }
 
 #landing-text h3 {
@@ -75,11 +76,11 @@ main {
 }
 
 .header {
+    padding: 1.5rem;
     text-align: center;
     background: rgb(65, 65, 65);
     color: #fff;
     height: 80px;
-    /* text-decoration: none; */
 }
 
 .header h2 {
