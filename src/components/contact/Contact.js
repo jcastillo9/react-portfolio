@@ -5,14 +5,7 @@ export default function Contact() {
                 <h2>Contact Me</h2>
             </div>
            <div className="contact">
-           <h4>Please feel free to reach out with any questions or just to say hello!</h4>
-        <br/>
-        <h4>Email:
-            <a href="mailto:janette.castillo91@yahoo.com"><strong>janette.castillo91@yahoo.com</strong></a>
-        </h4>
-        <h4>Phone:
-            <strong>(312) 543-2191</strong>
-        </h4>
+           <p>Please feel free to reach out with any questions or just to say hello!</p>
         <br/>
             <form className="message-forms">
                 <div className="form-group">
