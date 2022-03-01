@@ -53,8 +53,9 @@ As an employer, I want to view a potential employee's deployed portfolio of work
 # Installation
 Run using the github URL: https://jcastillo9.github.io/react-portfolio-v4
 
-<img src="assets/images/portfolio_landingpage.png"/>
-<img src="assets/images/portfolio_projectspage.png"/>
+<img src="assets/images/homepage.png"/>
+<img src="assets/images/navbar.png"/>
+<img src="assets/images/contact.png"/>
 
 ## Questions:
  ### Reach me here:
