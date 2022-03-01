@@ -105,13 +105,13 @@ main {
     padding: 3rem;
     text-align: center;
     display: flex;
-    flex-flow: row wrap;
+    flex-direction: row;
     justify-content: center;
     margin: auto;
 }
 
-#projects-list img {
-    width:400px;
+.caption img {
+    width:1000px;
     margin:0;
     flex-direction: row;
     border-radius: 2%;
