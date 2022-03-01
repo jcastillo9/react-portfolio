@@ -1,8 +1,7 @@
 export default function Contact() {
     return(
         <div>
-            <h1>Welcome1</h1>
-          {/* <div className="header">
+          <div className="header">
                 <h2>Contact Me</h2>
             </div>
            <div className="contact">
@@ -32,7 +31,7 @@ export default function Contact() {
                     <button href="mailto:janette.castillo91@yahoo.com" type="sumbit">Submit</button>
                 </div>
             </form>
-        </div> */}
+        </div>
         </div>
     )
 }
