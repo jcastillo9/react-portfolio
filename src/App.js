@@ -1,4 +1,4 @@
-import { Routes, Route } from 'react-router-dom'
+import { HashRouter ,Routes, Route } from 'react-router-dom'
 import './style.css';
 import Header from './components/header/Header'
 import About from './components/about/About'
@@ -12,12 +12,14 @@ function App() {
   return (
     <div>
       <Header />
+      <HashRouter>
       <Routes>
         <Route path='/' element={<About />} />
         <Route path='/portfolio' element={<Portfolio />} />
         <Route path='/contact' element={<Contact />} />
         <Route path='/resume' element={<Resume />} />
       </Routes>
+      </HashRouter>
       <Footer />
     </div>
   );
