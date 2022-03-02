@@ -49,7 +49,7 @@ main {
 #landing-text {
     display: flex;
     flex: 0 1 50vw;
-    height: 50vh;
+    height: 30vh;
     justify-content: center;
     align-items: center;
     float: center;
@@ -170,8 +170,8 @@ main {
 footer {
     text-align: center;
     padding: .5rem;
-    margin: auto;
     background: rgb(65, 65, 65);
+    bottom: 0;
 }
 
 footer img {
