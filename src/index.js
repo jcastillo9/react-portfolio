@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import {HashRouter } from 'react-router-dom'
+import {BrowserRouter, HashRouter } from 'react-router-dom'
 import './style.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -11,9 +11,11 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <HashRouter>
+   <BrowserRouter>
+   <HashRouter>
       <App />
     </HashRouter>
+    </BrowserRouter>
   </React.StrictMode>,
   document.getElementById('root')
 );
