@@ -11,11 +11,9 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-   <BrowserRouter>
    <HashRouter>
       <App />
     </HashRouter>
-    </BrowserRouter>
   </React.StrictMode>,
   document.getElementById('root')
 );
