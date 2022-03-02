@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-v4/static/css/main.36587c27.css",
+    "main.js": "/react-portfolio-v4/static/js/main.e82c6cbd.js",
+    "static/js/787.39aaad96.chunk.js": "/react-portfolio-v4/static/js/787.39aaad96.chunk.js",
+    "static/media/foodweather.png": "/react-portfolio-v4/static/media/foodweather.a524021ea8934a723268.png",
+    "static/media/unpuffd.png": "/react-portfolio-v4/static/media/unpuffd.62b240a46aa6d900c9b4.png",
+    "static/media/workdayschedule.png": "/react-portfolio-v4/static/media/workdayschedule.e0eabf84c7fb3b145577.png",
+    "static/media/teamgenerator.png": "/react-portfolio-v4/static/media/teamgenerator.8a6068603fbf69415d72.png",
+    "static/media/ecommerce.png": "/react-portfolio-v4/static/media/ecommerce.be1162016c542da9bf45.png",
+    "static/media/profile.png": "/react-portfolio-v4/static/media/profile.ec05834afc203c3c1814.png",
+    "static/media/texteditor.png": "/react-portfolio-v4/static/media/texteditor.2a1130b81aba9aa6a115.png",
+    "static/media/resume.png": "/react-portfolio-v4/static/media/resume.b00e9ef74a2efc798c33.png",
+    "static/media/github.png": "/react-portfolio-v4/static/media/github.22cfdd1cba253783ce51.png",
+    "index.html": "/react-portfolio-v4/index.html",
+    "main.36587c27.css.map": "/react-portfolio-v4/static/css/main.36587c27.css.map",
+    "main.e82c6cbd.js.map": "/react-portfolio-v4/static/js/main.e82c6cbd.js.map",
+    "787.39aaad96.chunk.js.map": "/react-portfolio-v4/static/js/787.39aaad96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36587c27.css",
+    "static/js/main.e82c6cbd.js"
+  ]
+}
