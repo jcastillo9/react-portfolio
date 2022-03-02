@@ -14,9 +14,9 @@ function App() {
       <Header />
       <Routes>
         <Route path='/' element={<About />} />
-        <Route path='/portfolio' element={<Portfolio />} />
-        <Route path='/contact' element={<Contact />} />
-        <Route path='/resume' element={<Resume />} />
+        <Route path='react-portfolio-v4/portfolio' element={<Portfolio />} />
+        <Route path='react-portfolio-v4/contact' element={<Contact />} />
+        <Route path='react-portfolio-v4/resume' element={<Resume />} />
       </Routes>
       <Footer />
     </div>
