@@ -19,7 +19,7 @@ export default function NavLinks() {
                     </Offcanvas.Header>
                     <Offcanvas.Body>
                         <Nav className="justify-content-end flex-grow-1 pe-3">
-                            <LinkContainer to="/about"><Nav.Link>Portfolio</Nav.Link></LinkContainer>
+                            <LinkContainer to="/"><Nav.Link>Portfolio</Nav.Link></LinkContainer>
                             <LinkContainer to="/portfolio"><Nav.Link>Portfolio</Nav.Link></LinkContainer>
                             <LinkContainer to="/contact"><Nav.Link>Contact</Nav.Link></LinkContainer>
                             <LinkContainer to="/resume"><Nav.Link>Resume</Nav.Link></LinkContainer>
