@@ -3,7 +3,7 @@ import {LinkContainer} from 'react-router-bootstrap'
 
 export default function NavLinks() {
     return (
-        <Navbar bg="light" expand={false}>
+       <LinkContainer><Navbar bg="light" expand={false}>
             <Container fluid>
                 <Navbar.Toggle aria-controls="offcanvasNavbar" />
                 <Navbar.Offcanvas
@@ -27,5 +27,6 @@ export default function NavLinks() {
                 </Navbar.Offcanvas>
             </Container>
         </Navbar>
+        </LinkContainer> 
     )
 }
