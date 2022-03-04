@@ -17,10 +17,10 @@ export default function NavLinks() {
                     </Offcanvas.Header>
                     <Offcanvas.Body>
                         <Nav className="justify-content-end flex-grow-1 pe-3">
-                            <Nav.Link href="/react-portfolio-v4'">About Me</Nav.Link>
-                            <Nav.Link href="/react-portfolio-v4'/portfolio">Portfolio</Nav.Link>
-                            <Nav.Link href="/react-portfolio-v4'/contact">Contact</Nav.Link>
-                            <Nav.Link href="/react-portfolio-v4'/resume">Resume</Nav.Link>
+                            <Nav.Link href="/react-portfolio-v4">About Me</Nav.Link>
+                            <Nav.Link href="/react-portfolio-v4/portfolio">Portfolio</Nav.Link>
+                            <Nav.Link href="/react-portfolio-v4/contact">Contact</Nav.Link>
+                            <Nav.Link href="/react-portfolio-v4/resume">Resume</Nav.Link>
                         </Nav>
                     </Offcanvas.Body>
                 </Navbar.Offcanvas>
