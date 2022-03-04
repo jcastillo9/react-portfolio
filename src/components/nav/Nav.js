@@ -1,9 +1,8 @@
 import { Container, Nav, Navbar, Offcanvas } from 'react-bootstrap';
-import {LinkContainer} from 'react-router-bootstrap'
 
 export default function NavLinks() {
     return (
-       <LinkContainer><Navbar bg="light" expand={false}>
+        <Navbar bg="light" expand={false}>
             <Container fluid>
                 <Navbar.Toggle aria-controls="offcanvasNavbar" />
                 <Navbar.Offcanvas
@@ -18,15 +17,14 @@ export default function NavLinks() {
                     </Offcanvas.Header>
                     <Offcanvas.Body>
                         <Nav className="justify-content-end flex-grow-1 pe-3">
-                            <LinkContainer to="/"> <Nav.Link>About Me</Nav.Link></LinkContainer>
-                            <LinkContainer to="/portfolio"><Nav.Link>Portfolio</Nav.Link></LinkContainer>
-                            <LinkContainer to="/contact"><Nav.Link>Contact</Nav.Link></LinkContainer>
-                            <LinkContainer to="/resume"><Nav.Link>Resume</Nav.Link></LinkContainer>
+                            <Nav.Link href="/">About Me</Nav.Link>
+                            <Nav.Link href="/portfolio">Portfolio</Nav.Link>
+                            <Nav.Link href="/contact">Contact</Nav.Link>
+                            <Nav.Link href="/resume">Resume</Nav.Link>
                         </Nav>
                     </Offcanvas.Body>
                 </Navbar.Offcanvas>
             </Container>
         </Navbar>
-        </LinkContainer> 
     )
 }
