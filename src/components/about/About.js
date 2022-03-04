@@ -18,8 +18,6 @@ export default function About() {
                         <p>My name is <strong>Janette Castillo</strong>! I'm from Chicago and currently taking a coding bootcamp at
                             Northwestern. My favorite coding languages are currently HTML, CSS and Javascript, but I look forward to learning how to build beautiful interfaces & experiences.</p>
                         <br />
-                        <p>In my free time, I like to bake and decorate sugar cookies.</p>
-
                     </div>
                 </div>
             </div>

@@ -126,28 +126,29 @@ main {
 }
 .contact {
     justify-content: center;
-    align-items: center;
-    vertical-align:middle;
     margin: 50px;
-    padding-left: 300px;
+    width: 80%;
+    display: flex;
 }
-.contact p{
+.contact-info p{
     text-decoration: none;
     justify-content: center;
-    margin: auto;
+    margin: 50px;
+    display: flex;
 }
  
+.message-forms{
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+  }
   form .form-group {
     margin: 0.625rem 0;
   }
 
-.message-forms{
-    font-size: large;
-  }
-
   .message-forms label{
         cursor: pointer;
-        display: inline-block;
+     
         width: 150px;
         vertical-align: top;
   }

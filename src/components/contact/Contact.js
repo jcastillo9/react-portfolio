@@ -4,9 +4,10 @@ export default function Contact() {
           <div className="header">
                 <h2>Contact Me</h2>
             </div>
-           <div className="contact">
+           <div className="contact-info">
            <p>Please feel free to reach out with any questions or just to say hello!</p>
-        <br/>
+        </div>
+        <div className="contact">
             <form className="message-forms">
                 <div className="form-group">
                     <label for="name">Name: </label>
@@ -17,7 +18,7 @@ export default function Contact() {
                     <input placeholder="Email" type="email" id="email" required="true"/>
                 </div>
                 <div className="form-group">
-                    <label for="messsage-box">Message:</label>
+                    <label for="message-box">Message:</label>
                     <input className="message-input" placeholder="Your Message" type="text" id="message-box" required="true"/>
                 </div>
                 <div>
