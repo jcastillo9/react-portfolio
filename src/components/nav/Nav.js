@@ -1,6 +1,6 @@
 import { Container, Nav, Navbar } from 'react-bootstrap';
 import Offcanvas from 'react-bootstrap/Offcanvas'
-import {LinkContainer} from 'react-router-bootstrap'
+import { LinkContainer } from 'react-router-bootstrap'
 
 export default function NavLinks() {
     return (
@@ -19,7 +19,7 @@ export default function NavLinks() {
                     </Offcanvas.Header>
                     <Offcanvas.Body>
                         <Nav className="justify-content-end flex-grow-1 pe-3">
-                            <Nav.Link href="/">About Me</Nav.Link>
+                            <LinkContainer to="/about"><Nav.Link>Portfolio</Nav.Link></LinkContainer>
                             <LinkContainer to="/portfolio"><Nav.Link>Portfolio</Nav.Link></LinkContainer>
                             <LinkContainer to="/contact"><Nav.Link>Contact</Nav.Link></LinkContainer>
                             <LinkContainer to="/resume"><Nav.Link>Resume</Nav.Link></LinkContainer>
