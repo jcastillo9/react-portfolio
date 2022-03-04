@@ -167,6 +167,13 @@ main {
       margin-left: 150px;
   }
 
+  .resume {
+    padding-left: 600px;
+}
+.resume p{
+    text-decoration: none;
+}
+
 footer {
     text-align: center;
     padding: .5rem;

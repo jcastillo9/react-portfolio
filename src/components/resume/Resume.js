@@ -1,3 +1,5 @@
+import resume from '../../assets/files/janette-castillo-resume.pdf'
+
 export default function Contact() {
     return (
         <div>
@@ -5,8 +7,11 @@ export default function Contact() {
                 <h2>Resume</h2>
             </div>
             <br />
-            <h2>Coming Soon</h2>
+            <div className="resume">
+           <p>Download my resume <a id="resume" href={resume} download > here.
+                </a></p>
             <br />
+            </div>
         </div>
     )
 }
