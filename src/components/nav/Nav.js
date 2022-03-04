@@ -17,11 +17,11 @@ export default function NavLinks() {
                         </Offcanvas.Title>
                     </Offcanvas.Header></LinkContainer>
                     <Offcanvas.Body>
-                        <Nav className="justify-content-end flex-grow-1 pe-3">
-                            <LinkContainer href="/"> <Nav.Link>About Me</Nav.Link></LinkContainer>
-                            <LinkContainer href="/portfolio"><Nav.Link>Portfolio</Nav.Link></LinkContainer>
-                            <LinkContainer href="/contact"><Nav.Link>Contact</Nav.Link></LinkContainer>
-                            <LinkContainer href="/resume"><Nav.Link>Resume</Nav.Link></LinkContainer>
+                    <Nav className="justify-content-end flex-grow-1 pe-3">
+                            <Nav.Link href="/">About Me</Nav.Link>
+                            <Nav.Link href="/portfolio">Portfolio</Nav.Link>
+                            <Nav.Link href="/contact">Contact</Nav.Link>
+                            <Nav.Link href="/resume">Resume</Nav.Link>
                         </Nav>
                     </Offcanvas.Body>
                 </Navbar.Offcanvas>
