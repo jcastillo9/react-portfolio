@@ -11,11 +11,11 @@ export default function NavLinks() {
                     aria-labelledby="offcanvasNavbarLabel"
                     placement="end"
                 >
-                    <Offcanvas.Header closeButton>
+                    <LinkContainer><Offcanvas.Header closeButton>
                         <Offcanvas.Title id="offcanvasNavbarLabel">
                             Janette Castillo
                         </Offcanvas.Title>
-                    </Offcanvas.Header>
+                    </Offcanvas.Header></LinkContainer>
                     <Offcanvas.Body>
                         <Nav className="justify-content-end flex-grow-1 pe-3">
                             <LinkContainer href="/"> <Nav.Link>About Me</Nav.Link></LinkContainer>
