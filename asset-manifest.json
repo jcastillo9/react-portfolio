@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio-v4/static/css/main.7b1294d5.css",
-    "main.js": "/react-portfolio-v4/static/js/main.7b76a9ec.js",
+    "main.css": "/react-portfolio-v4/static/css/main.368b4a9d.css",
+    "main.js": "/react-portfolio-v4/static/js/main.7e42b681.js",
     "static/js/787.39aaad96.chunk.js": "/react-portfolio-v4/static/js/787.39aaad96.chunk.js",
     "static/media/foodweather.png": "/react-portfolio-v4/static/media/foodweather.a524021ea8934a723268.png",
     "static/media/unpuffd.png": "/react-portfolio-v4/static/media/unpuffd.62b240a46aa6d900c9b4.png",
@@ -14,12 +14,12 @@
     "static/media/resume.png": "/react-portfolio-v4/static/media/resume.b00e9ef74a2efc798c33.png",
     "static/media/github.png": "/react-portfolio-v4/static/media/github.22cfdd1cba253783ce51.png",
     "index.html": "/react-portfolio-v4/index.html",
-    "main.7b1294d5.css.map": "/react-portfolio-v4/static/css/main.7b1294d5.css.map",
-    "main.7b76a9ec.js.map": "/react-portfolio-v4/static/js/main.7b76a9ec.js.map",
+    "main.368b4a9d.css.map": "/react-portfolio-v4/static/css/main.368b4a9d.css.map",
+    "main.7e42b681.js.map": "/react-portfolio-v4/static/js/main.7e42b681.js.map",
     "787.39aaad96.chunk.js.map": "/react-portfolio-v4/static/js/787.39aaad96.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b1294d5.css",
-    "static/js/main.7b76a9ec.js"
+    "static/css/main.368b4a9d.css",
+    "static/js/main.7e42b681.js"
   ]
 }
