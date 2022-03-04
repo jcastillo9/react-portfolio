@@ -1,4 +1,4 @@
-import { Routes, Route, Switch} from 'react-router-dom'
+import { Routes, Route} from 'react-router-dom'
 import './style.css';
 import Header from './components/header/Header'
 import About from './components/about/About'
@@ -13,12 +13,10 @@ function App() {
     <div>
       <Header />
       <Routes>  
-        <Switch>
-        <Route path='/react-portfolio-v4' element={<About />} />
-        <Route path='/react-portfolio-v4/portfolio' element={<Portfolio />} />
-        <Route path='/react-portfolio-v4/contact' element={<Contact />} />
-        <Route path='/react-portfolio-v4/resume' element={<Resume />} />
-        </Switch>
+        <Route path='/' element={<About />} />
+        <Route path='/portfolio' element={<Portfolio />} />
+        <Route path='/contact' element={<Contact />} />
+        <Route path='/resume' element={<Resume />} />
       </Routes>
       <Footer />
     </div>
