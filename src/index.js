@@ -7,15 +7,13 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import './style.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { HashRouter, Switch } from 'react-router-dom'
+import { HashRouter } from 'react-router-dom'
 
 ReactDOM.render(
   <React.StrictMode>
-   <Switch>
    <HashRouter>
       <App />
     </HashRouter>
-   </Switch>
   </React.StrictMode>,
   document.getElementById('root')
 );
