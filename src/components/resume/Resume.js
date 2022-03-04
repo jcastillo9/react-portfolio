@@ -10,8 +10,8 @@ export default function Contact() {
             </div>
             <br />
             <div className="resume">
-                <p>Download my resume <a id="resume" href={resume} download > here.
-                </a></p>
+                <p>Download my resume&nbsp;<a href={resume} download>here</a> . </p>
+                
                 <br />
                 <div className="resume-pdf">
                     <Document file={resume}>

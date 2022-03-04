@@ -16,8 +16,8 @@ export default function Footer(){
                     <a target="_blank" href="resume.pdf">
                         <img src={resume} id="icon"/>
                         </a>
-                        <p>Email:
-            <a href="mailto:janette.castillo91@yahoo.com"><strong>janette.castillo91@yahoo.com</strong></a> Phone:
+                        <p>Email:&nbsp;
+            <a href="mailto:janette.castillo91@yahoo.com"><strong>janette.castillo91@yahoo.com</strong></a> Phone:&nbsp;
             <strong>(312) 543-2191</strong>
         </p>
             <p>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a
