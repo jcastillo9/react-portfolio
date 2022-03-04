@@ -1,4 +1,5 @@
 import { Container, Nav, Navbar, Offcanvas } from 'react-bootstrap';
+import{ NavLink } from 'react-router-bootstrap'
 
 export default function NavLinks() {
     return (
