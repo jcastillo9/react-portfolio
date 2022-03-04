@@ -1,4 +1,5 @@
-import {Router, Route, Routes} from 'react-router-dom';import './style.css';
+import { Routes, Route } from 'react-router-dom'
+import './style.css';
 import Header from './components/header/Header'
 import About from './components/about/About'
 import Portfolio from './components/portfolio/Portfolio'
@@ -10,15 +11,15 @@ import Footer from './components/footer/Footer'
 function App() {
   return (
     <div>
-      <Header />
-      <Routes>  
-        <Route path='/' element={<About />} />
-        <Route path='/portfolio' element={<Portfolio />} />
-        <Route path='/contact' element={<Contact />} />
-        <Route path='/resume' element={<Resume />} />
-      </Routes>
-      <Footer />
-    </div>
+    <Header />
+    <Routes>
+                <Route path='/' element={<About />} />
+                <Route path='/portfolio' element={<Portfolio />} />
+                <Route path='/contact' element={<Contact />} />
+                <Route path='/resume' element={<Resume />} />
+            </Routes>
+    <Footer />
+   </div>
   );
 }
 

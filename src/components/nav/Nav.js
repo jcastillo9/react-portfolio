@@ -1,5 +1,4 @@
 import { Container, Nav, Navbar, Offcanvas } from 'react-bootstrap';
-import {LinkContainer} from 'react-router-bootstrap'
 
 export default function NavLinks() {
     return (
@@ -11,13 +10,13 @@ export default function NavLinks() {
                     aria-labelledby="offcanvasNavbarLabel"
                     placement="end"
                 >
-                    <LinkContainer><Offcanvas.Header closeButton>
+                    <Offcanvas.Header closeButton>
                         <Offcanvas.Title id="offcanvasNavbarLabel">
                             Janette Castillo
                         </Offcanvas.Title>
-                    </Offcanvas.Header></LinkContainer>
+                    </Offcanvas.Header>
                     <Offcanvas.Body>
-                    <Nav className="justify-content-end flex-grow-1 pe-3">
+                        <Nav className="justify-content-end flex-grow-1 pe-3">
                             <Nav.Link href="/">About Me</Nav.Link>
                             <Nav.Link href="/portfolio">Portfolio</Nav.Link>
                             <Nav.Link href="/contact">Contact</Nav.Link>
