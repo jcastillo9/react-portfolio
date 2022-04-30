@@ -1,4 +1,4 @@
-# react-portfolio-v4
+# react-portfolio
 
 ## Table of Contents
   * [User Story](#user-story)
@@ -51,7 +51,7 @@ As an employer, I want to view a potential employee's deployed portfolio of work
 * Axios
 
 # Installation
-Run using the github URL: https://jcastillo9.github.io/react-portfolio-v4
+Run using the github URL: https://jcastillo9.github.io/react-portfolio
 
 <img src="/src/assets/images/homepage.png"/>
 <img src="/src/assets/images/navbar.png"/>
