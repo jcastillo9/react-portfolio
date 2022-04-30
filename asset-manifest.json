@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-portfolio-v4/static/css/main.e7128e6d.css",
-    "main.js": "/react-portfolio-v4/static/js/main.a81d71bd.js",
-    "static/js/787.39aaad96.chunk.js": "/react-portfolio-v4/static/js/787.39aaad96.chunk.js",
-    "static/media/foodweather.png": "/react-portfolio-v4/static/media/foodweather.a524021ea8934a723268.png",
-    "static/media/unpuffd.png": "/react-portfolio-v4/static/media/unpuffd.62b240a46aa6d900c9b4.png",
-    "static/media/workdayschedule.png": "/react-portfolio-v4/static/media/workdayschedule.e0eabf84c7fb3b145577.png",
-    "static/media/teamgenerator.png": "/react-portfolio-v4/static/media/teamgenerator.8a6068603fbf69415d72.png",
-    "static/media/ecommerce.png": "/react-portfolio-v4/static/media/ecommerce.be1162016c542da9bf45.png",
-    "static/media/profile.png": "/react-portfolio-v4/static/media/profile.ec05834afc203c3c1814.png",
-    "static/media/texteditor.png": "/react-portfolio-v4/static/media/texteditor.2a1130b81aba9aa6a115.png",
-    "static/media/janette-castillo-resume.pdf": "/react-portfolio-v4/static/media/janette-castillo-resume.53d6438d90adaaa7ddb3.pdf",
-    "static/media/resume.png": "/react-portfolio-v4/static/media/resume.b00e9ef74a2efc798c33.png",
-    "static/media/github.png": "/react-portfolio-v4/static/media/github.22cfdd1cba253783ce51.png",
-    "index.html": "/react-portfolio-v4/index.html",
-    "main.e7128e6d.css.map": "/react-portfolio-v4/static/css/main.e7128e6d.css.map",
-    "main.a81d71bd.js.map": "/react-portfolio-v4/static/js/main.a81d71bd.js.map",
-    "787.39aaad96.chunk.js.map": "/react-portfolio-v4/static/js/787.39aaad96.chunk.js.map"
+    "main.css": "/react-portfolio/static/css/main.e7128e6d.css",
+    "main.js": "/react-portfolio/static/js/main.c761a11f.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/foodweather.png": "/react-portfolio/static/media/foodweather.a524021ea8934a723268.png",
+    "static/media/unpuffd.png": "/react-portfolio/static/media/unpuffd.62b240a46aa6d900c9b4.png",
+    "static/media/workdayschedule.png": "/react-portfolio/static/media/workdayschedule.e0eabf84c7fb3b145577.png",
+    "static/media/teamgenerator.png": "/react-portfolio/static/media/teamgenerator.8a6068603fbf69415d72.png",
+    "static/media/ecommerce.png": "/react-portfolio/static/media/ecommerce.be1162016c542da9bf45.png",
+    "static/media/profile.png": "/react-portfolio/static/media/profile.ec05834afc203c3c1814.png",
+    "static/media/texteditor.png": "/react-portfolio/static/media/texteditor.2a1130b81aba9aa6a115.png",
+    "static/media/janette-castillo-resume.pdf": "/react-portfolio/static/media/janette-castillo-resume.53d6438d90adaaa7ddb3.pdf",
+    "static/media/resume.png": "/react-portfolio/static/media/resume.b00e9ef74a2efc798c33.png",
+    "static/media/github.png": "/react-portfolio/static/media/github.22cfdd1cba253783ce51.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.e7128e6d.css.map": "/react-portfolio/static/css/main.e7128e6d.css.map",
+    "main.c761a11f.js.map": "/react-portfolio/static/js/main.c761a11f.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7128e6d.css",
-    "static/js/main.a81d71bd.js"
+    "static/js/main.c761a11f.js"
   ]
 }
